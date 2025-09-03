@@ -13,9 +13,9 @@ venv/
 *.ipynb_checkpoints
 
 # Data
-data/
-*.csv
-!data_csv/*.csv
+# data/
+# *.csv
+# !data_csv/*.csv
 *.parquet
 *.json
 *.pkl
