@@ -14,7 +14,7 @@ venv/
 
 # Data
 data/
-*.csv
+# *.csv
 !data_csv/*.csv
 *.parquet
 *.json
